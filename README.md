@@ -14,4 +14,5 @@ En base a nuestro dataset, podemos apreciar que las gravedades que más se parec
 
 Lo siguiente en lo que nos podemos fijar es en el peso. Se nombra que los astronautas notan su peso más o menos igual al de la Tierra (56kg). En Saturno pesarían 51,42857143 kg y en Urano 49,71428571 kg. Con esto no descartamos nada, pues los pesos son más o menos iguales.
 
-Sin embargo, sabemos que podemos suponer que estamos en Urano puesto que es imposible aterrizar en Saturno al tratarse de un planeta gaseoso.
+Como los datos que más se aproximan son los que coinciden con Saturno, vamos a suponer que los astronautas están allí, aunque sea imposible aterrizar en él por ser gaseoso. También podría darse el caso de que se encuentren en la misma Tierra, pero personalmente creemos que los astronautas reconocerían la Tierra.
+
